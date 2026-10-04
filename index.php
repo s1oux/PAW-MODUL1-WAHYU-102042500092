@@ -92,7 +92,7 @@ if (!isset($_SESSION['products'])) {
             "category" => "Konsol", 
             "price" => 1200000, 
             "stock" => 2, 
-            "image" => "gamabr/psp.jpeg", 
+            "image" => "gambar/psp.jpeg", 
             "rating" => 4.7, 
             "reviews" => 845
         ]
